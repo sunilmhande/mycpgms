@@ -3,7 +3,7 @@ big2()
 {
     int num1, num2;
     // Ask user to enter the two numbers
-    printf("Please Enter Two different values to compare\n");
+    printf("Please Enter Two different values to compare and display biggest of 2\n");
     // Read two numbers from the user
     scanf("%d %d", &num1, &num2);
     if(num1 > num2)
